@@ -1,7 +1,0 @@
-backend/.env
-backend/node_modules/
-fronted/node_modules/
-dist/
-build/
-.env
-*.log
